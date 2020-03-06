@@ -1,1 +1,1 @@
-print("Welcome to the vertexpro Devops training")
+print("Welcome to the vertexpro Devops training on begning")
